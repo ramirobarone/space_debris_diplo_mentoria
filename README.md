@@ -1,7 +1,23 @@
-# Propuesta de Proyectos de Mentorías - DiploDatos 2025
+## Propuesta de Proyectos de Mentorías - DiploDatos 2025
 ---
-## 🛰🌎 Predicciones en Espacio: ¿Cuántos satélites y desechos podremos tener?
+# 🛰🌎 Predicciones en Espacio: ¿Cuántos satélites y desechos podremos tener?
 ---
+### Descripción y objetivos del proyecto
+El crecimiento exponencial de objetos en órbita, tanto satélites operativos como desechos espaciales, representa un desafío clave para la sostenibilidad del espacio. Este proyecto busca analizar, visualizar y modelar datos de satélites y fragmentos de basura espacial para comprender su evolución y prever posibles tendencias futuras.
+
+El objetivo principal es la construcción de modelos de análisis y predicción mediante técnicas de Aprendizaje Supervisado y No Supervisado, permitiendo clasificar objetos en órbita y estimar la evolución de la basura espacial en el tiempo.
+
+Este trabajo propone relacionar los datos satelitales con información sobre eventos clave, como colisiones, desintegraciones y lanzamientos recientes, para evaluar su impacto en la densidad orbital.
+
+El proyecto busca responder las siguientes preguntas:
+
+- ¿Cómo ha evolucionado la cantidad de satélites y desechos espaciales en las últimas décadas?
+- ¿Existen patrones en la distribución de basura espacial en diferentes órbitas?
+- ¿Qué países y empresas han contribuido más al crecimiento de satélites y fragmentos en órbita?
+- ¿Podemos predecir la cantidad de desechos espaciales en los próximos años?
+- ¿Qué factores pueden influir en la proliferación de basura espacial en el futuro?
+
+
 | **Columna**        | **Descripción** |
 |--------------------|---------------|
 | **INTLDES**        | **Diseño Internacional** del lanzamiento en formato `YYNNNA` (Año, Número, Pieza). Ejemplo: `1998-067A` (ISS Zarya). |
