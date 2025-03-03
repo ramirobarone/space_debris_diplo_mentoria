@@ -68,7 +68,7 @@ Archivo `ucs-satellite-database.xlsx`
 | **Launch Site**                       | Sitio del lanzamiento |
 | **Launch Vehicle**                    | Lanzador |
 
-
+El uso de estas dos fuentes de datos permite obtener información clave sobre:
 - Tamaño y masa de los satélites.
 - Órbita según el período orbital.
 - Propósito de cada satélite (para qué fue fabricado).
