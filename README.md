@@ -7,12 +7,11 @@
 
 ## 📌 Descripción y objetivos del proyecto
 
-En la última década hubo un crecimiento exponencial de objetos en objetos en órbita, tanto satélites como desechos espaciales. 
+En la última década, ha habido un crecimiento exponencial de objetos que orbitan la Tierra, tanto satélites como desechos espaciales. 
 
+El objetivo de este proyecto es desarrollar un modelo predictivo y de clasificación de objetos que orbitan la Tierra. El modelado se llevará a cabo mediante técnicas de Aprendizaje Supervisado/No Supervisado principalmente.
 
-El objetivo de este proyecto es la contrucción de un modelo predictivo y de clasificación de objetos que orbitan la Tierra.  El modelado se realizará a través de modelos de Aprendizaje Supervisado/no Supervisado principalmente.
-
-La propuesta busca relacionar y vincular el dataset con datos historicos lanzamientos, dadas de baja, tamaño, orbitan, periodo, mision, vida util, etc. y ver su efecto en la cantidad de objetos que orbitan, ya sean satelites funcionales o desechos de los mismo. 
+La propuesta busca analizar y correlacionar un conjunto de datos historicos, que incluyen información sobre lanzamientos, satélites fuera de servicio, tamaño, orbitan, periodo, mision, vida util, etc. para entender su impacto en la cantidad de objetos en órbita, ya sean satélites funcionales o desechos espaciales.
 
 El proyecto busca responder las siguientes preguntas:
 
@@ -24,13 +23,17 @@ El proyecto busca responder las siguientes preguntas:
 
 ## 🗃 Datos 
 
-La informacion fue extraida de [Space-Track.org](https://www.space-track.org/), administrado por la fuerza aérea de Estados Unidos y [UCS Satellite Database](https://www.ucsusa.org/resources/satellite-database), que recopila informacion de diferentes agencias espaciales como NASA, ESA, CONAE, etc. El dataset esta dividos en diferentes archivos:
+La información fue extraida de [Space-Track.org](https://www.space-track.org/), administrado por la Fuerza Aérea de los Estados Unidos y del [UCS Satellite Database](https://www.ucsusa.org/resources/satellite-database), que recopila datos de diferentes agencias espaciales como NASA, ESA, CONAE, etc. 
 
-- `satellites.json`: contiene informacion de los satelites lanzados hasta el 02/2025.
-- `debris.json`: contiene informacion de desechos orbitando hasta el 02/2025.
-- `ucs-satellite-database.xlsx`: contiene informacion detallada de los satelites en funcionamiento hasta el 01/2023.
+El dataset esta dividos en diferentes archivos:
 
-Las columnas más relevantes de los archivos `satellites.json` y `debris.json` son:
+- `satellites.json`: contiene informacion de los satelites lanzados hasta febrero de 2025
+- `debris.json`: incluye datos sobre desechos espaciales en órbita hasta febrero de 2025
+- `ucs-satellite-database.xlsx`: proporciona información detallada de los satélites en funcionamiento hasta enero de 2023
+
+### Variables principales
+
+Archivos `satellites.json` y `debris.json`
 
 | **Columna**        | **Descripción** |
 |--------------------|---------------|
@@ -48,8 +51,7 @@ Las columnas más relevantes de los archivos `satellites.json` y `debris.json` s
 | **CURRENT**        | Estado actual del objeto |
 
 
-Las columnas más relevantes del archivo `ucs-satellite-database.xlsx` son:
-
+Archivo `ucs-satellite-database.xlsx` 
 
 | **Columna**                           | **Descripción**                                                                 |
 |---------------------------------------|---------------------------------------------------------------------------------|
@@ -67,9 +69,7 @@ Las columnas más relevantes del archivo `ucs-satellite-database.xlsx` son:
 | **Launch Vehicle**                    | Lanzador |
 
 
-Tener dos fuentes de datos permite obtener: 
-
-- Tamaño y masa
-- Órbita segun el periodo orbital
-- Proposito de cada satelite (para que se fabrico)
-- Vida util esperada
+- Tamaño y masa de los satélites.
+- Órbita según el período orbital.
+- Propósito de cada satélite (para qué fue fabricado).
+- Vida útil esperada de los satélites.
