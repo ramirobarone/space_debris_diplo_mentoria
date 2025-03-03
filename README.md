@@ -1,7 +1,7 @@
-# space_debris
-
-## Descripción de las Columnas  
-
+# Propuesta de Proyectos de Mentorías - DiploDatos 2025
+---
+## 🛰🌎 Predicciones en Espacio: ¿Cuántos satélites y desechos podremos tener?
+---
 | **Columna**        | **Descripción** |
 |--------------------|---------------|
 | **INTLDES**        | **Diseño Internacional** del lanzamiento en formato `YYNNNA` (Año, Número, Pieza). Ejemplo: `1998-067A` (ISS Zarya). |
@@ -28,3 +28,8 @@
 | **OBJECT_NAME**    | Nombre del objeto en registros oficiales. |
 | **OBJECT_ID**      | Identificador único asignado por NORAD. |
 | **OBJECT_NUMBER**  | Número de objeto en la base de datos de Space-Track. |
+
+https://www.space-track.org/documentation#legend
+
+https://www.ucsusa.org/resources/satellite-database
+
