@@ -7,7 +7,12 @@
 
 ## 📌 Descripción y objetivos del proyecto
 
-En la última década hubo un crecimiento exponencial de objetos en objetos en órbita, tanto satélites como desechos espaciales. El objetivo de este proyecto es encontrar las interrelaciones entre variables, así como la sensibilidad de las mismas, además de tratar de encontrar posibles patrones relacionados a la estacionalidad y las características de los objetos que orbitan. Esto puede ser valioso permitiendo clasificar objetos en órbita y estimar la evolución de la basura espacial en el tiempo.
+En la última década hubo un crecimiento exponencial de objetos en objetos en órbita, tanto satélites como desechos espaciales. 
+
+
+El objetivo de este proyecto es la contrucción de un modelo predictivo y de clasificación de objetos que orbitan la Tierra.  El modelado se realizará a través de modelos de Aprendizaje Supervisado/no Supervisado principalmente.
+
+La propuesta busca relacionar y vincular el dataset con datos historicos lanzamientos, dadas de baja, tamaño, orbitan, periodo, mision, vida util, etc. y ver su efecto en la cantidad de objetos que orbitan, ya sean satelites funcionales o desechos de los mismo. 
 
 El proyecto busca responder las siguientes preguntas:
 
