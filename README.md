@@ -1,8 +1,8 @@
 ## Propuesta de Proyectos de Mentorías - DiploDatos 2025
----
+
 # 🛰🌎 Predicciones en Espacio: ¿Cuántos satélites y desechos podremos tener?
----
-### Descripción y objetivos del proyecto
+
+### 📌 Descripción y objetivos del proyecto
 El crecimiento exponencial de objetos en órbita, tanto satélites operativos como desechos espaciales, representa un desafío clave para la sostenibilidad del espacio. Este proyecto busca analizar, visualizar y modelar datos de satélites y fragmentos de basura espacial para comprender su evolución y prever posibles tendencias futuras.
 
 El objetivo principal es la construcción de modelos de análisis y predicción mediante técnicas de Aprendizaje Supervisado y No Supervisado, permitiendo clasificar objetos en órbita y estimar la evolución de la basura espacial en el tiempo.
@@ -45,7 +45,8 @@ El proyecto busca responder las siguientes preguntas:
 | **OBJECT_ID**      | Identificador único asignado por NORAD. |
 | **OBJECT_NUMBER**  | Número de objeto en la base de datos de Space-Track. |
 
-https://www.space-track.org/documentation#legend
+Los datos han sido extraídos de:
 
-https://www.ucsusa.org/resources/satellite-database
+[Space-Track.org](https://www.space-track.org/) - Fuente de datos oficiales sobre objetos en órbita terrestre
 
+[UCS Satellite Database](https://www.ucsusa.org/resources/satellite-database) - Base de datos de satélites operacionales
