@@ -15,7 +15,6 @@ El proyecto busca responder las siguientes preguntas:
 - **¿Cual es la vida útil real de un satelite?**
 - **¿Existen patrones en la distribución de basura espacial en diferentes órbitas?**
 - **¿Qué países generan más desechos en el espacio?**
-- **¿Existiran más desechos en el futuro?**
 - **¿Podemos predecir la cantidad de desechos espaciales en los próximos años?**
 
 ## 🗃 Datos 
