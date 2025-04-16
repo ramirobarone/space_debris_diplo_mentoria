@@ -1,4 +1,4 @@
-# Propuesta de Proyectos de Mentorías - DiploDatos 2025  
+# Proyecto de Mentoría - DiploDatos 2025  
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
