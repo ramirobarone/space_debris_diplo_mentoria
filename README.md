@@ -1,12 +1,13 @@
-# Propuesta de Proyectos de Mentorías - DiploDatos 2025  
+# Proyecto de Mentoría - DiploDatos 2025  
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
 <img src="data/images/portada.png" alt="Table" width="500"/>  
 
 ## 📌 Descripción y objetivos del proyecto  
+En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos de lanzamiento. Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: los desechos espaciales. Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
 
-En la última década, ha habido un crecimiento exponencial de objetos que orbitan la Tierra, tanto satélites como desechos espaciales.  
+Según la NASA, actualmente hay más de 30.000 objetos rastreados en órbita, y desde 1991 se dieron tres colisiones en la órbita por culpa de los desechos. Se pronostica que, con el paso del tiempo, las dificultades se irán multiplicando. Es por esto que se necesita lograr dar una solución efectiva al asunto.
 
 El objetivo de este proyecto es desarrollar un modelo predictivo y de clasificación de objetos en órbita terrestre. El modelado se llevará a cabo mediante técnicas de Aprendizaje Supervisado y No Supervisado.  
 
