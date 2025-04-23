@@ -2,7 +2,7 @@
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
-<img src="https://github.com/EnzoRg/space_debris/blob/main/image/portada.png" alt="Table" width="500"/>  
+<img src="data/images/portada.png" alt="Table" width="500"/>  
 
 ## 📌 Descripción y objetivos del proyecto  
 
