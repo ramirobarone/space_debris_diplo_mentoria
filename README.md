@@ -78,5 +78,5 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 El desarrollo de este proyecto se divide de la siguiente manera: 
 
 1. [Análisis y Visualización](docs/analisis_y_visualizacion.md)
-2. Análisis Exploratorio y Curación de Datos
-3. Aprendizaje Supervisado y/o No Supervisado
+2. [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
+3. [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
