@@ -9,7 +9,7 @@ En la última década, el número de satélites en órbita ha crecido exponencia
 
 Según la NASA, actualmente hay más de 30.000 objetos rastreados en órbita, y desde 1991 se dieron tres colisiones en la órbita por culpa de los desechos. Se pronostica que, con el paso del tiempo, las dificultades se irán multiplicando. Es por esto que se necesita lograr dar una solución efectiva al asunto.
 
-El objetivo de este proyecto es desarrollar un modelo predictivo y de clasificación de objetos en órbita terrestre. El modelado se llevará a cabo mediante técnicas de Aprendizaje Supervisado y No Supervisado.  
+El objetivo de este proyecto es desarrollar un modelo predictivo y de clasificación de objetos en órbita terrestre. El modelado se llevará a cabo mediante técnicas de Aprendizaje Supervisado y/o No Supervisado.  
 
 La propuesta busca analizar y correlacionar un conjunto de datos históricos que incluyen información sobre lanzamientos, satélites fuera de servicio, tamaño, órbita, período, misión, vida útil, etc., para entender su impacto en la cantidad de objetos en órbita, ya sean satélites funcionales o desechos espaciales.  
 
@@ -72,3 +72,11 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 - Órbita según el período orbital.  
 - Propósito de cada satélite (para qué fue fabricado).  
 - Vida útil esperada de los satélites.  
+
+## 💻 Desarrollo 
+
+El desarrollo de este proyecto se divide de la siguiente manera: 
+
+1. [Análisis y Visualización](docs/analisis_y_visualizacion.md)
+2. Análisis Exploratorio y Curación de Datos
+3. Aprendizaje Supervisado y/o No Supervisado
