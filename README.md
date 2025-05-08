@@ -2,7 +2,7 @@
 
 # 🛰🌎 **Predicciones en el Espacio: ¿Cuántos satélites y desechos podremos tener?**  
 
-<img src="data/images/portada.png" alt="Table" width="500"/>  
+<img src="data/images/portada.png" alt="Portada desechos espaciales" width="500"/>  
 
 ## 📌 Descripción y objetivos del proyecto  
 En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos de lanzamiento. Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: los desechos espaciales. Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
