@@ -31,7 +31,7 @@ Se pueden clasificar según el propósito por el cual fueron construidos:
 
 ### 🛤️ Tipos de órbitas
 
-<img src="data/images/orbitas.png" alt="Órbitas LEO, MEO y GEO" width="500"/>
+<img src="../data/images/orbitas.png" alt="Órbitas LEO, MEO y GEO" width="500"/>
 
 Los satélites también se clasifican según la **órbita** en la que se encuentran. Existen tres categorías principales:
 
@@ -53,7 +53,7 @@ Esto fue descripto hace siglos por las [Leyes de Kepler](https://es.wikipedia.or
 
 ### 🧭 Inclinación orbital
 
-<img src="data/images/inclinacion.png" alt="Órbitas LEO, MEO y GEO" width="500"/>
+<img src="../data/images/inclinacion.png" alt="Órbitas LEO, MEO y GEO" width="500"/>
 
 La inclinación es el ángulo entre el plano de la órbita del satélite y el ecuador terrestre:
 
@@ -61,7 +61,7 @@ La inclinación es el ángulo entre el plano de la órbita del satélite y el ec
 * Una inclinación de **90°** indica una órbita polar, es decir, sobre los polos geográficos.
 
 ##
-<p align="right">Siguiente | <b><a href="docs/dataset.md">Descripción de los Datos</a></b>
+<p align="right">Siguiente | <b><a href="dataset.md">Descripción de los Datos</a></b>
 <br/>
 Atrás | <b><a href="README.md">Página principal</a></p>
 

@@ -41,8 +41,8 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 - Vida útil esperada de los satélites.  
 
 ##
-<p align="right">Siguiente | <b><a href="docs/analisis_y_visualizacion.md">Análisis y Visualización</a></b>
+<p align="right">Siguiente | <b><a href="analisis_y_visualizacion.md">Análisis y Visualización</a></b>
 <br/>
-Atrás | <b><a href="docs/intro_satelites.md">¿Qué es un satélite?</a></p>
+Atrás | <b><a href="intro_satelites.md">¿Qué es un satélite?</a></p>
 
 </b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
