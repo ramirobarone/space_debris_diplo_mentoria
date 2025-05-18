@@ -8,3 +8,10 @@ Se identificarán variables clave, como aquellas relacionadas con la duración f
 
 Se generarán visualizaciones que permitan identificar tendencias, distribuciones y posibles correlaciones entre variables. Esto ayudará a dimensionar el crecimiento del número de objetos en órbita, clasificar por tipo de objeto (satélite funcional o desecho), y analizar su evolución en el tiempo.
 
+##
+<p align="right">Siguiente | <b><a href="analisis_exploratorio.md">Análisis Exploratorio y Curación de Datos</a></b>
+<br/>
+Atrás | <b><a href="dataset.md">Descripción de los Datos</a></p>
+
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+

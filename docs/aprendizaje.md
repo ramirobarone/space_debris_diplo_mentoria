@@ -9,3 +9,10 @@ Con los datos ya procesados, se avanzará en el entrenamiento de modelos, comenz
 Se evaluarán distintas métricas según el tipo de problema, y se realizarán ajustes de hiperparámetros para optimizar los resultados.
 
 En el caso del aprendizaje no supervisado, se aplicarán técnicas de clustering para descubrir agrupamientos entre los objetos en órbita (por tamaño, tipo de misión, órbita, etc.) que puedan ayudar a entender patrones en la distribución del desecho espacial.
+
+##
+<p align="right">Siguiente | <b><a href="resultados.md">Resultados y Conclusiones</a></b>
+<br/>
+Atrás | <b><a href="analisis_exploratorio.md">Análisis Exploratorio y Curación de Datos</a></p>
+
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>

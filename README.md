@@ -40,3 +40,4 @@ El desarrollo de este proyecto se divide de la siguiente manera:
 - [Análisis y Visualización](docs/analisis_y_visualizacion.md)
 - [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
 - [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
+- [Resultados y Conclusiones](docs/resultados.md)
