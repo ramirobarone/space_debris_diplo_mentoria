@@ -35,7 +35,7 @@ El dataset está dividido en diferentes archivos:
 
 El desarrollo de este proyecto se divide de la siguiente manera: 
 
-- [¿Qué es un satélite](docs/intro_satelites.md)
+- [¿Qué es un satélite?](docs/intro_satelites.md)
 - [Descripción del dataset](docs/dataset.md)
 - [Análisis y Visualización](docs/analisis_y_visualizacion.md)
 - [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
