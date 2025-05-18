@@ -13,4 +13,4 @@ Asimismo, se buscará detectar valores atípicos y analizar si son errores o fen
 <br/>
 Atrás | <b><a href="analisis_y_visualizacion.md">Análisis y Visualización</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRG | </sup><a href="README.md#-desarrollo"><sup>Contenidos</sup></a></p>
