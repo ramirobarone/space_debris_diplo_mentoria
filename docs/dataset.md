@@ -27,6 +27,7 @@ Las columnas de los archivos son:
 | **LAUNCH_PIECE**   | Letra que identifica cada objeto dentro de un mismo lanzamiento. |
 | **CURRENT**        | Estado actual del objeto. |  
 
+### Union of Concerned Scientists
 
 [Union of Concerned Scientists](https://www.ucs.org/) proporciona una base de datos, que ayuda a complementar los datos anteriores en el archivo [ucs-satellite-database.xlsx](../data/raw/ucs-satellite-database.xlsx). Para más información leer la [guía de usuario](../data/User+Guide+1-1-17+wAppendix.pdf).
 
@@ -47,10 +48,10 @@ Las columnas del archivo son:
 | **Launch Site**                       | Sitio del lanzamiento. |
 | **Launch Vehicle**                    | Lanzador. |  
 
-El uso de estas dos fuentes de datos permite obtener información clave sobre:  
+El uso de estas dos fuentes de datos permite obtener información sobre:  
 - Tamaño y masa de los satélites.  
 - Órbita según el período orbital.  
-- Propósito de cada satélite (para qué fue fabricado).  
+- Propósito de cada satélite.  
 - Vida útil esperada de los satélites.  
 
 ##
@@ -58,4 +59,4 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 <br/>
 Atrás | <b><a href="intro_satelites.md">Introducción a los Satélites</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRg | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>

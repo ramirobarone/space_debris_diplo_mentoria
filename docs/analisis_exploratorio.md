@@ -8,9 +8,14 @@ Se evaluará si todas las variables son relevantes para los objetivos del proyec
 
 Asimismo, se buscará detectar valores atípicos y analizar si son errores o fenómenos significativos que deben conservarse. Finalmente, se aplicarán técnicas como normalización o codificación para dejar los datos listos para el modelado.
 
+
+Notas: 
+- Investigar mejor formato de archivos. 
+
+
 ##
 <p align="right">Siguiente | <b><a href="aprendizaje.md">Aprendizaje Supervisado y/o No Supervisado</a></b>
 <br/>
 Atrás | <b><a href="analisis_y_visualizacion.md">Análisis y Visualización</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRg | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
