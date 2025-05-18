@@ -39,3 +39,10 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 - Órbita según el período orbital.  
 - Propósito de cada satélite (para qué fue fabricado).  
 - Vida útil esperada de los satélites.  
+
+##
+<p align="right">Siguiente | <b><a href="docs/analisis_y_visualizacion.md">Análisis y Visualización</a></b>
+<br/>
+Atrás | <b><a href="docs/intro_satelites.md">¿Qué es un satélite?</a></p>
+
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>

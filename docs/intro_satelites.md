@@ -61,9 +61,9 @@ La inclinación es el ángulo entre el plano de la órbita del satélite y el ec
 * Una inclinación de **90°** indica una órbita polar, es decir, sobre los polos geográficos.
 
 ##
-<p align="right">Siguiente | <b><a href="docs/dataset.md">Descripción del dataset (Python)</a></b>
+<p align="right">Siguiente | <b><a href="docs/dataset.md">Descripción de los Datos</a></b>
 <br/>
 Atrás | <b><a href="README.md">Página principal</a></p>
 
-</sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
 
