@@ -20,6 +20,8 @@ Con los satélites, este tipo de señales y otras (Internet, GPS y observación 
 
 ## 🛰 Clasifición 
 
+Se pueden clasificar según el propósito por el cual fueron construidos: 
+
 * **Comunicaciones**
 * **Navegación y posicionamiento**
 * **Observación de la Tierra**
@@ -27,7 +29,7 @@ Con los satélites, este tipo de señales y otras (Internet, GPS y observación 
 * **Desarrollo tecnológico**
 * **Otros usos específicos**
 
-## 🛤️ Tipos de órbitas
+### 🛤️ Tipos de órbitas
 
 <img src="data/images/orbitas.png" alt="Órbitas LEO, MEO y GEO" width="500"/>
 
@@ -39,7 +41,7 @@ Los satélites también se clasifican según la **órbita** en la que se encuent
 
 Muchos satélites científicos, de observación terrestre y sistemas como **Starlink** operan en órbita **LEO**. 
 
-### ⏱ ¿A qué velocidad orbitan?
+### ⏱ Velocidad 
 
 La velocidad con la que un satélite orbita depende de su altitud. Cuanto más cerca de la Tierra, mayor es la fuerza gravitacional y, por lo tanto, mayor su velocidad orbital. Por ejemplo:
 

@@ -31,54 +31,12 @@ El dataset está dividido en diferentes archivos:
 - `debris.json`: incluye datos sobre desechos espaciales en órbita hasta febrero de 2025.  
 - `ucs-satellite-database.xlsx`: proporciona información detallada de los satélites en funcionamiento hasta enero de 2023.  
 
-### Variables principales  
-
-**Archivos `satellites.json` y `debris.json`**  
-
-| **Columna**        | **Descripción** |
-|--------------------|---------------|
-| **OBJECT_ID**      | Identificador único asignado por NORAD. |
-| **OBJECT_TYPE**    | Tipo de objeto. |
-| **SATNAME**        | Nombre del objeto o satélite. |
-| **COUNTRY**        | País responsable del objeto. |
-| **LAUNCH**         | Fecha de lanzamiento. |
-| **SITE**           | Lugar de lanzamiento. |
-| **DECAY**          | Fecha de reentrada en la atmósfera. |
-| **PERIOD**         | Período orbital en minutos. |
-| **LAUNCH_YEAR**    | Año de lanzamiento. |
-| **LAUNCH_NUM**     | Número de lanzamiento de ese año. |
-| **LAUNCH_PIECE**   | Letra que identifica cada objeto dentro de un mismo lanzamiento. |
-| **CURRENT**        | Estado actual del objeto. |  
-
-**Archivo `ucs-satellite-database.xlsx`**  
-
-| **Columna**                           | **Descripción**                                                                 |
-|---------------------------------------|---------------------------------------------------------------------------------|
-| **NORAD Number**                      | Identificador único asignado por NORAD. |
-| **Current Official Name of Satellite** | Nombre oficial del satélite. |
-| **Country of Operator/Owner**         | País del operador o propietario del satélite. |
-| **Operator/Owner**                    | Nombre del operador o propietario del satélite. |
-| **Users**                             | Entidades o países que utilizan el satélite. |
-| **Purpose**                           | Propósito general del satélite. |
-| **Class of Orbit**                    | Órbita en la que se encuentra el satélite. |
-| **Launch Mass (kg.)**                 | Masa del satélite en el momento del lanzamiento. |
-| **Expected Lifetime (yrs.)**          | Vida útil esperada. |
-| **Country of Contractor**             | País donde se encuentra el fabricante. |
-| **Launch Site**                       | Sitio del lanzamiento. |
-| **Launch Vehicle**                    | Lanzador. |  
-
-El uso de estas dos fuentes de datos permite obtener información clave sobre:  
-- Tamaño y masa de los satélites.  
-- Órbita según el período orbital.  
-- Propósito de cada satélite (para qué fue fabricado).  
-- Vida útil esperada de los satélites.  
-
 ## 💻 Desarrollo 
 
 El desarrollo de este proyecto se divide de la siguiente manera: 
 
-
-
-1. [Análisis y Visualización](docs/analisis_y_visualizacion.md)
-2. [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
-3. [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
+- [¿Qué es un satélite](docs/intro_satelites.md)
+- [Descripción del dataset](docs/dataset.md)
+- [Análisis y Visualización](docs/analisis_y_visualizacion.md)
+- [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
+- [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
