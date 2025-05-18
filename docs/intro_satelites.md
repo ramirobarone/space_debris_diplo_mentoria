@@ -1,4 +1,6 @@
-# 🤔 ¿Qué es un satélite?
+## Introducción a los Satélites
+
+## 🤔 ¿Qué es un satélite?
 
 Un satélite es un objeto que se mueve alrededor de otro más grande. Por ejemplo, la Tierra es un satélite del Sol, ya que orbita a su alrededor. La Luna es un satélite de la Tierra. Estos son satélites **naturales**.
 
@@ -20,7 +22,7 @@ Con los satélites, este tipo de señales y otras (Internet, GPS y observación 
 
 ## 🛰 Clasifición 
 
-Se pueden clasificar según el propósito por el cual fueron construidos: 
+Un satélite esta compuesto principalmente por dos partes: plataforma y la carga útil (payload). Este última es la que cumple la función para la cual fue contruido el satélite. Se pueden clasificar según el propósito:
 
 * **Comunicaciones**
 * **Navegación y posicionamiento**

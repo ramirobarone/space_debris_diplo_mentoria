@@ -1,23 +1,36 @@
-### Variables principales  
+# Descripción de los Datos
 
-**Archivos `satellites.json` y `debris.json`**  
+## Obtención de datos 
+
+### Space-Track
+
+Mediante el [script](../src/space_track_api.py) se obtuvieron los datos de [Space-Track.org](https://www.space-track.org/). Se crearon los archivos [satellites.json](../data/raw/satellites.json), [debris.json](../data/raw/debris.json), [rockets.json](../data/raw/rockets.json) y [unknown.json](../data/raw/unknown.json). Estos archivos corresponde con la informacion de satélites, debris espaciales, cohetes de lanzamiento y objetos no identicados. 
+
+Las columnas de los archivos son: 
 
 | **Columna**        | **Descripción** |
 |--------------------|---------------|
-| **OBJECT_ID**      | Identificador único asignado por NORAD. |
-| **OBJECT_TYPE**    | Tipo de objeto. |
+| **OBJECT_ID**      | Identificador único asignado por [NORAD](https://www.norad.mil/). |
+| **OBJECT_TYPE**    | Tipo de objeto (payload, debris, rocket body). |
 | **SATNAME**        | Nombre del objeto o satélite. |
 | **COUNTRY**        | País responsable del objeto. |
 | **LAUNCH**         | Fecha de lanzamiento. |
 | **SITE**           | Lugar de lanzamiento. |
-| **DECAY**          | Fecha de reentrada en la atmósfera. |
+| **DECAY**          | Fecha de reentrada en la atmósfera (si corresponde). |
 | **PERIOD**         | Período orbital en minutos. |
+| **INCLINATION**    | Inclinacion con respecto al ecuador en grados. |
+| **APOGEE**         | Altitud máxima de la órbita en km. |
+| **PERIGEE**        | Altitud mínima de la órbita en km. |
+| **RCS_SIZE**       | Tamaño estimado del objeto. |
 | **LAUNCH_YEAR**    | Año de lanzamiento. |
 | **LAUNCH_NUM**     | Número de lanzamiento de ese año. |
 | **LAUNCH_PIECE**   | Letra que identifica cada objeto dentro de un mismo lanzamiento. |
 | **CURRENT**        | Estado actual del objeto. |  
 
-**Archivo `ucs-satellite-database.xlsx`**  
+
+[Union of Concerned Scientists](https://www.ucs.org/) proporciona una base de datos, que ayuda a complementar los datos anteriores en el archivo [ucs-satellite-database.xlsx](../data/raw/ucs-satellite-database.xlsx). Para más información leer la [guía de usuario](../data/User+Guide+1-1-17+wAppendix.pdf).
+
+Las columnas del archivo son: 
 
 | **Columna**                           | **Descripción**                                                                 |
 |---------------------------------------|---------------------------------------------------------------------------------|
@@ -43,6 +56,6 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 ##
 <p align="right">Siguiente | <b><a href="analisis_y_visualizacion.md">Análisis y Visualización</a></b>
 <br/>
-Atrás | <b><a href="intro_satelites.md">¿Qué es un satélite?</a></p>
+Atrás | <b><a href="intro_satelites.md">Introducción a los Satélites</a></p>
 
 </b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
