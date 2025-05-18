@@ -65,5 +65,5 @@ La inclinación es el ángulo entre el plano de la órbita del satélite y el ec
 <br/>
 Atrás | <b><a href="README.md">Página principal</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
 

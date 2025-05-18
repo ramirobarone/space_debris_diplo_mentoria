@@ -45,4 +45,4 @@ El uso de estas dos fuentes de datos permite obtener información clave sobre:
 <br/>
 Atrás | <b><a href="intro_satelites.md">¿Qué es un satélite?</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>

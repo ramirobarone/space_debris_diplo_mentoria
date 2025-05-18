@@ -15,4 +15,4 @@ En el caso del aprendizaje no supervisado, se aplicarán técnicas de clustering
 <br/>
 Atrás | <b><a href="analisis_exploratorio.md">Análisis Exploratorio y Curación de Datos</a></p>
 
-</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md#-desarrollo"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRG | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>

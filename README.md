@@ -31,7 +31,7 @@ El dataset está dividido en diferentes archivos:
 - `debris.json`: incluye datos sobre desechos espaciales en órbita hasta febrero de 2025.  
 - `ucs-satellite-database.xlsx`: proporciona información detallada de los satélites en funcionamiento hasta enero de 2023.  
 
-## Desarrollo 
+## 💻 Desarrollo 
 
 El desarrollo de este proyecto se divide de la siguiente manera: 
 
