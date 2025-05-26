@@ -5,7 +5,7 @@
 <img src="data/images/portada.png" alt="Portada desechos espaciales" width="500"/>  
 
 ## 📌 Descripción y objetivos del proyecto  
-En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos de lanzamiento. Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: los desechos espaciales. Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
+En la última década, el número de satélites en órbita ha crecido exponencialmente debido a los avances tecnológicos y la reducción de costos (New Space). Sin embargo, hay un problema que vino de la mano y que hasta hace poco tiempo no era considerado importante: **los desechos espaciales**. Estos desechos van desde satélites fuera de servicio hasta naves espaciales abandonadas y escombros de misiones fallidas. 
 
 Según la NASA, actualmente hay más de 30.000 objetos rastreados en órbita, y desde 1991 se dieron tres colisiones en la órbita por culpa de los desechos. Se pronostica que, con el paso del tiempo, las dificultades se irán multiplicando. Es por esto que se necesita lograr dar una solución efectiva al asunto.
 
@@ -29,6 +29,8 @@ El dataset está dividido en diferentes archivos:
 
 - `satellites.json`: contiene información de los satélites lanzados hasta febrero de 2025.  
 - `debris.json`: incluye datos sobre desechos espaciales en órbita hasta febrero de 2025.  
+- `rockets.json`: incluye datos sobre los lanzadores en órbita hasta febrero de 2025. 
+- `unknown.json`: incluye datos sobre objetos no identificados en órbita hasta febrero de 2025. 
 - `ucs-satellite-database.xlsx`: proporciona información detallada de los satélites en funcionamiento hasta enero de 2023.  
 
 ## 💻 Desarrollo 
@@ -41,3 +43,10 @@ El desarrollo de este proyecto se divide de la siguiente manera:
 - [Análisis Exploratorio y Curación de Datos](docs/analisis_exploratorio.md)
 - [Aprendizaje Supervisado y/o No Supervisado](docs/aprendizaje.md)
 - [Resultados y Conclusiones](docs/resultados.md)
+
+## 📚 Referencias
+- [Space-Track API](https://www.space-track.org/documentation#/api)
+- [ISS Tracker](https://isstracker.pl/en)
+- [How many satellites can we safely fit in Earth orbit?](https://www.n2yo.com/satellite-article/How-many-satellites-can-we-safely-fit-in-Earth-orbit/86)
+
+</b><p align="center"><sup> EnzoRg | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
