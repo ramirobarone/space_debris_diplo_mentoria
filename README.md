@@ -49,4 +49,4 @@ El desarrollo de este proyecto se divide de la siguiente manera:
 - [ISS Tracker](https://isstracker.pl/en)
 - [How many satellites can we safely fit in Earth orbit?](https://www.n2yo.com/satellite-article/How-many-satellites-can-we-safely-fit-in-Earth-orbit/86)
 
-</b><p align="center"><sup> EnzoRg | </sup><a href="../README.md"><sup>Contenidos</sup></a></p>
+</b><p align="center"><sup> EnzoRg | </sup><a href="/README.md"><sup>Contenidos</sup></a></p>
