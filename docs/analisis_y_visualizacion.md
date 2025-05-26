@@ -10,15 +10,17 @@ Se identificarán variables clave, como aquellas relacionadas con la duración f
 
 Se generarán visualizaciones que permitan identificar tendencias, distribuciones y posibles correlaciones entre variables. Esto ayudará a dimensionar el crecimiento del número de objetos en órbita, clasificar por tipo de objeto (satélite funcional o desecho), y analizar su evolución en el tiempo.
 
-Algunas sugerencias son:
-- ¿Qué relación hay entre el tamaño del objeto y la órbita?
-- ¿Cuantos objetos de cada tipo existen? 
-- Comprender que significa un valor nulo dentro de una columna
-- ¿Cuales creen que seran las variables más importantes?
-- Determinar la corelación y buscar patrones entre variables
-- ¿Cuantos datos faltantes hay?
-- ¿Que hipotesis se pueden plantear?
-- ¿Cuales son los gráficos que mayor información dan? 
+Sugerencias para el análisis:
+- ¿Cuál es la relación entre el tamaño del objeto y su tipo de órbita?
+- ¿Cuántos objetos existen según su tipo?
+- Comprender el significado de valores nulos: ¿son realmente "faltantes" o tienen un significado particular?
+- ¿Cuáles son las variables que podrían tener mayor influencia en la vida útil o el estado operativo?
+- Determinar la correlación entre variables e identificar patrones 
+- ¿Qué porcentaje del dataset contiene datos faltantes? ¿Se pueden imputar?
+- ¿Qué hipótesis se pueden plantear para validar en etapas posteriores?
+- ¿Qué tipo de gráficos aportan más información según la variable a analizar? 
+- ¿Se observa una evolución distinta entre diferentes tipos de órbitas?
+- ¿Hay países más propensas a generar desechos?
 
 ##
 <p align="right">Siguiente | <b><a href="analisis_exploratorio.md">Análisis Exploratorio y Curación de Datos</a></b>

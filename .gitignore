@@ -2,8 +2,7 @@
 /coordinacion
 /sandbox
 /mlruns
-/notebooks/eda_graficos.py
-/notebooks/eda.ipynb
+/notebooks
 
 
 # Byte-compiled / optimized / DLL files
